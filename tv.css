@@ -1,0 +1,87 @@
+.tv-streaming, .tv-streaming .video div{margin:0 !important; padding:0 !important;}
+.tv-streaming .video{margin:0 0 10px 0 !important; padding:0 !important;}
+.tv-streaming .altext{margin:0;padding:0;overflow:hidden;clear:both;float:none;text-align:center;}
+.tv-streaming .credit{margin:0 !important; padding:10px 0 !important; display:block !important; visibility:visible !important; text-align:center; font-size:10px; font-weight:normal; line-height:1em;}
+.tv-streaming .credit a,.tv-streaming .credit a:link, .tv-streaming .credit a:active, .tv-streaming .credit a:visited{margin:0; padding:0; display:inline !important; visibility:visible !important; font-size:10px; font-weight:normal; line-height:1em; text-decoration:none; }
+.tv-streaming .credit a:hover{ text-decoration:underline; }
+.tv-streaming ul.channels{list-style:none; margin:0; padding:0; text-align:center;}
+.tv-streaming ul.channels li.channel{list-style:none; margin:0; padding:0; display:inline;}
+.tv-streaming ul.channels li.channel a{display:inline-block; text-decoration:none; border:1px solid #ddd; padding:0; margin:1px; text-indent:-99999px;}
+.tv-streaming ul.channels li.active a, .tv-streaming ul.channels li.channel a:hover, .tv-streaming ul.channels li.active a:hover {border:1px solid #aaa;}
+
+.tv-streaming .btn-96 a{width:96px; height:79px; background-image:url(images/96.jpg); background-repeat:no-repeat; }
+.tv-streaming .btn-64 a{width:64px; height:52px; background-image:url(images/64.jpg); background-repeat:no-repeat; }
+.tv-streaming .btn-48 a{width:48px; height:39px; background-image:url(images/48.jpg); background-repeat:no-repeat; }
+.tv-streaming .btn-32 a{width:32px; height:26px; background-image:url(images/32.jpg); background-repeat:no-repeat; }
+
+.tv-streaming .btn-96 li.mrctix01 a{background-position:0 0;}
+.tv-streaming .btn-96 li.trans7 a{background-position:-96px 0;}
+.tv-streaming .btn-96 li.msptx01 a{background-position:-192px 0;}
+.tv-streaming .btn-96 li.mdaaix01 a{background-position:-288px 0;}
+.tv-streaming .btn-96 li.mm1xx01 a{background-position:-384px 0;}
+.tv-streaming .btn-96 li.mmyStreamx01 a{background-position:-480px 0;}
+.tv-streaming .btn-96 li.mtransx01 a{background-position:-576px 0;}
+.tv-streaming .btn-96 li.mtpix01 a{background-position:-672px 0;}
+.tv-streaming .btn-96 li.mindosiarx01 a{background-position:-768px 0;}
+.tv-streaming .btn-96 li.msctvx01 a{background-position:-864px 0;}
+.tv-streaming .btn-96 li.mantvx01 a{background-position:-960px 0;}
+.tv-streaming .btn-96 li.mglobalx01 a{background-position:-1056px 0;}
+.tv-streaming .btn-96 li.mtv1x01 a{background-position:-1152px 0;}
+.tv-streaming .btn-96 li.mmetrox01 a{background-position:-1248px 0;}
+.tv-streaming .btn-96 li.mpjtvx01 a{background-position:-1344px 0;}
+.tv-streaming .btn-96 li.m2x01 a{background-position:-1440px 0;}
+.tv-streaming .btn-96 li.mjaktvx01 a{background-image:url(images/jaktv-96.jpg); background-position:0 0;}
+
+.tv-streaming .btn-64 li.mrctix01 a{background-position:0 0;}
+.tv-streaming .btn-64 li.trans7 a{background-position:-64px 0;}
+.tv-streaming .btn-64 li.msptx01 a{background-position:-128px 0;}
+.tv-streaming .btn-64 li.mdaaix01 a{background-position:-192px 0;}
+.tv-streaming .btn-64 li.mm1xx01 a{background-position:-256px 0;}
+.tv-streaming .btn-64 li.mmyStreamx01 a{background-position:-320px 0;}
+.tv-streaming .btn-64 li.mtransx01 a{background-position:-384px 0;}
+.tv-streaming .btn-64 li.mtpix01 a{background-position:-448px 0;}
+.tv-streaming .btn-64 li.mindosiarx01 a{background-position:-512px 0;}
+.tv-streaming .btn-64 li.msctvx01 a{background-position:-576px 0;}
+.tv-streaming .btn-64 li.mantvx01 a{background-position:-640px 0;}
+.tv-streaming .btn-64 li.mglobalx01 a{background-position:-704px 0;}
+.tv-streaming .btn-64 li.mtv1x01 a{background-position:-764px 0;}
+.tv-streaming .btn-64 li.mmetrox01 a{background-position:-832px 0;}
+.tv-streaming .btn-64 li.mpjtvx01 a{background-position:-896px 0;}
+.tv-streaming .btn-64 li.m2x01 a{background-position:-960px 0;}
+.tv-streaming .btn-64 li.mjaktvx01 a{background-image:url(images/jaktv-64.jpg); background-position:0 0;}
+
+.tv-streaming .btn-48 li.mrctix01 a{background-position:0 0;}
+.tv-streaming .btn-48 li.trans7 a{background-position:-48px 0;}
+.tv-streaming .btn-48 li.msptx01 a{background-position:-96px 0;}
+.tv-streaming .btn-48 li.mdaaix01 a{background-position:-144px 0;}
+.tv-streaming .btn-48 li.mm1xx01 a{background-position:-192px 0;}
+.tv-streaming .btn-48 li.mmyStreamx01 a{background-position:-240px 0;}
+.tv-streaming .btn-48 li.mtransx01 a{background-position:-288px 0;}
+.tv-streaming .btn-48 li.mtpix01 a{background-position:-336px 0;}
+.tv-streaming .btn-48 li.mindosiarx01 a{background-position:-384px 0;}
+.tv-streaming .btn-48 li.msctvx01 a{background-position:-432px 0;}
+.tv-streaming .btn-48 li.mantvx01 a{background-position:-480px 0;}
+.tv-streaming .btn-48 li.mglobalx01 a{background-position:-528px 0;}
+.tv-streaming .btn-48 li.mtv1x01 a{background-position:-576px 0;}
+.tv-streaming .btn-48 li.mmetrox01 a{background-position:-624px 0;}
+.tv-streaming .btn-48 li.mpjtvx01 a{background-position:-672px 0;}
+.tv-streaming .btn-48 li.m2x01 a{background-position:-720px 0;}
+.tv-streaming .btn-48 li.mjaktvx01 a{background-image:url(images/jaktv-48.jpg); background-position:0 0;}
+
+.tv-streaming .btn-32 li.mrctix01 a{background-position:0 0;}
+.tv-streaming .btn-32 li.trans7 a{background-position:-32px 0;}
+.tv-streaming .btn-32 li.msptx01 a{background-position:-64px 0;}
+.tv-streaming .btn-32 li.mdaaix01 a{background-position:-96px 0;}
+.tv-streaming .btn-32 li.mm1xx01 a{background-position:-128px 0;}
+.tv-streaming .btn-32 li.mmyStreamx01 a{background-position:-160px 0;}
+.tv-streaming .btn-32 li.mtransx01 a{background-position:-192px 0;}
+.tv-streaming .btn-32 li.mtpix01 a{background-position:-224px 0;}
+.tv-streaming .btn-32 li.mindosiarx01 a{background-position:-256px 0;}
+.tv-streaming .btn-32 li.msctvx01 a{background-position:-288px 0;}
+.tv-streaming .btn-32 li.mantvx01 a{background-position:-320px 0;}
+.tv-streaming .btn-32 li.mglobalx01 a{background-position:-352px 0;}
+.tv-streaming .btn-32 li.mtv1x01 a{background-position:-384px 0;}
+.tv-streaming .btn-32 li.mmetrox01 a{background-position:-416px 0;}
+.tv-streaming .btn-32 li.mpjtvx01 a{background-position:-448px 0;}
+.tv-streaming .btn-32 li.m2x01 a{background-position:-480px 0;}
+.tv-streaming .btn-32 li.mjaktvx01 a{background-image:url(images/jaktv-32.jpg); background-position:0 0;}

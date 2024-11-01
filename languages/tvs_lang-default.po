@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TV Streaming for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-11 16:08+0700\n"
+"PO-Revision-Date: 2011-07-11 16:08+0700\n"
+"Last-Translator: Bambang Sugiarto <bambang@minilibra.com>\n"
+"Language-Team: Web Design Jakarta <bambang@satublogs.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-tv-streaming.php:288
+#: wp-tv-streaming.php:310
+#, php-format
+msgid "You are trying to watch <strong>%1$s</strong> channel live TV Streaming with %2$s. But, looks like you don't have flash player installed with your browser. Please, <a href=\"%3$s\" target=\"_blank\" rel=\"nofollow\">download and install flash player</a>."
+msgstr ""
+
+#: wp-tv-streaming.php:288
+#: wp-tv-streaming.php:310
+msgid "our"
+msgstr ""
+
+#: wp-tv-streaming.php:288
+#: wp-tv-streaming.php:310
+msgid "TV Streaming plugin for WordPress"
+msgstr ""
+
+#: wp-tv-streaming.php:297
+#: wp-tv-streaming.php:351
+msgid "Play"
+msgstr ""
+
+#: wp-tv-streaming.php:302
+#: wp-tv-streaming.php:356
+msgid "Powered by"
+msgstr ""
+
+#: wp-tv-streaming.php:302
+#: wp-tv-streaming.php:356
+msgid "Get your own TV Streaming"
+msgstr ""
+
+#: wp-tv-streaming.php:302
+#: wp-tv-streaming.php:356
+msgid "for"
+msgstr ""
+
+#: wp-tv-streaming.php:411
+msgid "Settings"
+msgstr ""
+
+#: wp-tv-streaming.php:421
+msgid "You cannot edit TV Streaming Settings."
+msgstr ""
+
+#: wp-tv-streaming.php:482
+msgid "TV Streaming Plugin for WordPress settings updated."
+msgstr ""
+
+#: wp-tv-streaming.php:488
+#: wp-tv-streaming.php:818
+msgid "No"
+msgstr ""
+
+#: wp-tv-streaming.php:489
+#: wp-tv-streaming.php:819
+msgid "Yes"
+msgstr ""
+
+#: wp-tv-streaming.php:492
+#: wp-tv-streaming.php:822
+msgid "96 Pixel"
+msgstr ""
+
+#: wp-tv-streaming.php:493
+#: wp-tv-streaming.php:823
+msgid "64 Pixel"
+msgstr ""
+
+#: wp-tv-streaming.php:494
+#: wp-tv-streaming.php:824
+msgid "48 Pixel"
+msgstr ""
+
+#: wp-tv-streaming.php:495
+#: wp-tv-streaming.php:825
+msgid "32 Pixel"
+msgstr ""
+
+#: wp-tv-streaming.php:498
+msgid "TV Streaming Plugin for WordPress"
+msgstr ""
+
+#: wp-tv-streaming.php:505
+msgid "Default Width:"
+msgstr ""
+
+#: wp-tv-streaming.php:510
+msgid "Default Height:"
+msgstr ""
+
+#: wp-tv-streaming.php:515
+msgid "Default Channel Buttons Size:"
+msgstr ""
+
+#: wp-tv-streaming.php:526
+#: wp-tv-streaming.php:881
+msgid "SEO Friendly:"
+msgstr ""
+
+#: wp-tv-streaming.php:537
+msgid "Default Logo:"
+msgstr ""
+
+#: wp-tv-streaming.php:542
+msgid "Default Visible Channels:"
+msgstr ""
+
+#: wp-tv-streaming.php:553
+msgid "Default Active Channel:"
+msgstr ""
+
+#: wp-tv-streaming.php:564
+#: wp-tv-streaming.php:868
+msgid "Autoplay:"
+msgstr ""
+
+#: wp-tv-streaming.php:575
+msgid "Display Credit:"
+msgstr ""
+
+#: wp-tv-streaming.php:582
+msgid "Thank you and we really appreciate your help for keep sharing our FREE plugin to the world."
+msgstr ""
+
+#: wp-tv-streaming.php:588
+msgid "Save Changes"
+msgstr ""
+
+#: wp-tv-streaming.php:829
+msgid "Title:"
+msgstr ""
+
+#: wp-tv-streaming.php:834
+msgid "Video Width:"
+msgstr ""
+
+#: wp-tv-streaming.php:839
+msgid "Video Height:"
+msgstr ""
+
+#: wp-tv-streaming.php:844
+msgid "Show Channel Button:"
+msgstr ""
+
+#: wp-tv-streaming.php:855
+msgid "Active Channel:"
+msgstr ""
+
+#: wp-tv-streaming.php:894
+msgid "Logo:"
+msgstr ""
+
+#: wp-tv-streaming.php:899
+msgid "Icon Size:"
+msgstr ""
+
